@@ -1,0 +1,21 @@
+[project]
+name = "persona-bench"
+version = "0.1.0"
+description = "Personal Environment for Reasoning over Synthesized Observations, Narratives & Activities"
+readme = "README.md"
+license = {text = "Apache-2.0"}
+requires-python = ">=3.10"
+authors = [
+    {name = "Abdul Bari", email = "z@onyxlab.ai"},
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "N", "UP", "B", "SIM"]
+ignore = ["E501"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["persona_bench"]
