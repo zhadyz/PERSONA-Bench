@@ -86,7 +86,7 @@ If you use PERSONA-Bench in your research, please cite:
 
 ## Contact
 
-- Abdul Bari — [z@onyxlab.ai](mailto:z@onyxlab.ai)
+- Abdul Bari — [abari@sfsu.edu](mailto:abari@sfsu.edu)
 
 ## License
 
