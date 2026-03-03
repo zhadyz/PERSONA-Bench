@@ -4,7 +4,7 @@
 
 If you discover a security vulnerability in PERSONA-Bench, please report it responsibly.
 
-**Email**: [z@onyxlab.ai](mailto:z@onyxlab.ai)
+**Email**: [z@onyxlab.ai](mailto:abari@sfsu.edu)
 
 Please include:
 - Description of the vulnerability
